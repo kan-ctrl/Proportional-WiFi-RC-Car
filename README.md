@@ -1,4 +1,4 @@
-# Proportional-WiFi-RC-Car
+# WiFi RC Analog Upgrade
 I modified a cheap RC car by removing the control board from the car, installing servos and motor control boards, and controlling it all with an ESP8266.
 On the remote side I threw it away and will start all over again using the esp8266. In the picture you can see a temporary remote to test the car's functionality.
 The result is a smoother, more controlled car. The servo allows the car to choose its turning angle. The motor control board allows the car to choose its speed, depending on the remote you design.
